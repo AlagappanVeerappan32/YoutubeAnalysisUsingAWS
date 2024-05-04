@@ -60,3 +60,6 @@ Store the output data generated from the analysis back into the S3 bucket.
 
 13. Visualize Data with QuickSight:
 Utilize Amazon QuickSight for visualization of the analyzed data.
+
+## Architecture Diagram
+![AWS DATA PIPELINE Architetcure](architecture_diagram.jpeg)
