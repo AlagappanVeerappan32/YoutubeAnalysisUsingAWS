@@ -20,7 +20,7 @@ Python: Our project is built using Python, harnessing its versatility and rich e
 
 Apache Spark: Employing Apache Spark for distributed data processing, we handle large volumes of YouTube data with speed and efficiency, enabling comprehensive analysis in real-time.
 
-## Steps
+## Steps:
 
 1. Download the Dataset from Kaggle:
 Download the dataset from Kaggle and save it locally.
